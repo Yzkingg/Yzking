@@ -1,4 +1,3 @@
-# ========== PT站强制直连（优先级最高，禁止走代理） ==========
 DOMAIN-SUFFIX,hddolby.com,DIRECT
 DOMAIN-SUFFIX,ubits.club,DIRECT
 DOMAIN-SUFFIX,audiences.me,DIRECT
